@@ -1,11 +1,38 @@
 # 🌸 Sobre Mim:
-👋Olá! Me chamo Ana Carolina <br>
-Sou Técnica em __Análise e Desenvolvimento de Sistemas__ e utilizo essas tecnologias:<br>•	HTML<br>•	CSS<br>•	PHP<br>•	Framework Laravel PHP<br>•	Bootstrap
-<br>
-<br>
-E-mail para Contato: ananoleto2007@gmail.com
+## 👋 Olá! Seja bem-vindo(a)!
+
+Me chamo **Ana Carolina Noleto** e sou **Técnica em Análise e Desenvolvimento de Sistemas**.
+
+🎯 Atualmente, sou **estagiária em Desenvolvimento Front-End**, focando no aprimoramento das minhas habilidades com as seguintes tecnologias:
+
+- React  
+- Next.js  
+- TypeScript  
+- Tailwind CSS
+- React Hook Form
+
+🛠️ Além disso, durante o curso técnico, tive a oportunidade de desenvolver habilidades em diversas tecnologias, incluindo:
+
+- PHP  
+- Laravel  
+- HTML & CSS  
+- JavaScript  
+- Bootstrap
+
+📌 Também possuo conhecimentos em áreas complementares ao desenvolvimento, como:
+
+- **Metodologias ágeis**: Scrum e Kanban  
+- **Modelagem UML**: Diagrama de Casos de Uso e Diagrama de Classes  
+- **Banco de Dados**: Modelagem de dados, MySQL e SQLite
+
+💡 Estou em constante evolução e sigo em busca de novos desafios para crescer como desenvolvedora e contribuir com soluções criativas. 🚀
+
+## 🌐 Meus Contatos
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ananoleto/))  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ananoleto_07/)  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananoleto2007@gmail.com)
+
+
 # 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+
 
 
 
