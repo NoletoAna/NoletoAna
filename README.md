@@ -1,29 +1,34 @@
 # 🌸 Sobre Mim:
 ## 👋 Olá! Seja bem-vindo(a)!
 
-Me chamo **Ana Carolina Noleto** e sou **Técnica em Análise e Desenvolvimento de Sistemas**.
+Meu Nome é Ana Carolina Noleto, sou **Técnica em Análise e Desenvolvimento de Sistemas** e atualmente curso  
+🎓 **Engenharia de Software (UFMT)** e  
+🎓 **Análise e Desenvolvimento de Sistemas (UNIC)**.
 
-🎯 Atualmente, sou **estagiária em Desenvolvimento Front-End**, focando no aprimoramento das minhas habilidades com as seguintes tecnologias:
+---
 
-- React  
-- Next.js  
-- TypeScript  
-- Tailwind CSS
-- React Hook Form
+## 💻 Experiência Profissional
+- 🚀 **Desenvolvedora Full Stack**, com foco na **manutenção, evolução e refatoração de código legado**;  
+- Experiência com **.NET** no back-end e **Bootstrap** e **jQuery** no front-end;  
+- Vivência anterior como **estagiária em Desenvolvimento Front-End**, utilizando:  
+  - ⚛️ **React**  
+  - ⚡ **Next.js**  
+  - 💡 **TypeScript**  
+  - 🎨 **Tailwind CSS**  
+  - 🧩 **React Hook Form**
 
-🛠️ Além disso, durante o curso técnico, tive a oportunidade de desenvolver habilidades em diversas tecnologias, incluindo:
+---
 
-- PHP  
-- Laravel  
-- HTML & CSS  
-- JavaScript  
-- Bootstrap
+## 🛠️ Tecnologias e Ferramentas
+**Back-end:** .NET, PHP, Laravel  
+**Front-end:** HTML, CSS, JavaScript, Bootstrap, React, Next.js, TypeScript, Tailwind CSS  
+**Banco de Dados:** Modelagem de dados, MySQL, SQLite  
 
-📌 Também possuo conhecimentos em áreas complementares ao desenvolvimento, como:
+---
 
-- **Metodologias ágeis**: Scrum e Kanban  
-- **Modelagem UML**: Diagrama de Casos de Uso e Diagrama de Classes  
-- **Banco de Dados**: Modelagem de dados, MySQL e SQLite
+## 📚 Conhecimentos Complementares
+- 🔄 **Metodologias ágeis:** Scrum e Kanban  
+- 🧠 **Modelagem UML:** Diagramas de Casos de Uso e de Classes  
 
 💡 Estou em constante evolução e sigo em busca de novos desafios para crescer como desenvolvedora e contribuir com soluções criativas. 🚀
 
